@@ -1,4 +1,4 @@
-package com.funcore.pojo;
+package com.funcore.vkappl.pojo;
 
 import java.math.BigInteger;
 
